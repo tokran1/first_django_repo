@@ -25,7 +25,7 @@ SECRET_KEY = '=pag#1zrhe5w&nb8%e+kp7*1=y!hzp4tdbara*r_x+qk3!!7&0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [tokran.pythonanywhere.com]
 
 
 # Application definition
